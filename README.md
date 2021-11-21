@@ -3,7 +3,7 @@
 ---
 
 📖I’m studying electronics in I.T.I. G.Marconi in Dalmine<br>
-🇮🇹I'm from Bergamo, Italy<br>
+🇮🇹 🇦🇱I'm from Bergamo, Italy<br>
 Currently, I'm working on some projects with my mates<br>
 In addition to electronics, i even love running 🏃 and playing football ⚽<br>
 ⚡My goals are to finish the projects and continue learning more and more about electronics<br>
