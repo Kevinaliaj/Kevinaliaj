@@ -11,7 +11,3 @@ In addition to electronics, i even love running 🏃 and playing football ⚽<br
 ---
 
 You can contact me by my email: aliaj.kevin.04@gmail.com
-<!---
-Kevinaliaj/Kevinaliaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
