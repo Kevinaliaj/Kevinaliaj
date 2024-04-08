@@ -2,7 +2,7 @@
 
 ---
 
-📖I’m studying electronics in I.T.I. G.Marconi in Dalmine<br>
+📖I’m an electronic engineering student at Politecnico di Milano<br>
 🇮🇹 🇦🇱I'm from Bergamo, Italy<br>
 Currently, I'm working on a project with my mates<br>
 In addition to electronics, i even love training 🏃 and playing football ⚽<br>
